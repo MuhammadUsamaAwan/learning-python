@@ -1,0 +1,13 @@
+name = "John"
+print(len(name))
+print(name.lower())
+print(name.upper())
+print(name.title())
+print(name.capitalize())
+print(name.count("o"))
+print(name.find("o"))
+print(name.isdigit())
+print(name.isalpha())
+print(name.isalnum())
+print(name.replace("o", "a"))
+print(name * 5)
